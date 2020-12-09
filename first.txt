@@ -1,3 +1,4 @@
 First file
 Second line
 Another line
+Last line
