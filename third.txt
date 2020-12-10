@@ -1,1 +1,3 @@
-This is the third file
+
+This is a third file
+Added third file
