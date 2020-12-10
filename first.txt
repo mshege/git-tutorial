@@ -1,6 +1,7 @@
 First file
 Second line
 This line - Another line - edited twice
-Added prefix to first file
+Added prefix on the first file
+Edited first line
 Last line
 In fact, this is the last line
