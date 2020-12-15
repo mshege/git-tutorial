@@ -1,4 +1,4 @@
 First file
 Second line
-Another lines
-
+Another line - edited
+Last line
