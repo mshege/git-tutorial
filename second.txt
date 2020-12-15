@@ -1,3 +1,0 @@
-Second file
-No more blank
-Third line on second file (second line is blank)

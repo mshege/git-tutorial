@@ -1,5 +1,1 @@
 First file
-Second line
-Another line - edited twice
-Last line
-In fact, this is the last line
