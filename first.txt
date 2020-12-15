@@ -3,3 +3,4 @@ Second line
 This line - Another line - edited twice
 Added prefix to first file
 Last line
+In fact, this is the last line
